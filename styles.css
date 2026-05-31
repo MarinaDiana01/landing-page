@@ -918,3 +918,44 @@ p.client-feedback-client-job {
 }
 
 
+/* 
+
+1. Buton care are background full de o culoare
+.button-contained {}
+
+2. Buton care are doar chenarul de o culoare
+.button-outlined {}
+
+3. Buton care are doar text
+ .button-text {} 
+
+ */
+
+ 
+ /*
+breakpoints: 
+- 640px
+- 768px
+- 1024px
+- 1280px
+- 1536px
+*/
+
+/* Media query */
+/* 640px este breakpointul */
+/* practic atunci când ecranul e mai lat de 640px, 
+atunci se suprascriu proprietățile de pe elementele selectate în interiorul media quer-ului */
+
+
+/*
+FLEXBOX
+
+folosim display: flex;
+
+Folosim flexbox atunci cand vrem sa afisam doua sau mai multe elemente pe aceeasi axa (fie Ox, fie Oy) 
+
+axa este data de proprietatea de css: flex-direction care are patru valori: row (default-Ox), row-reverse, column (Oy), column-reverse
+
+folosim justify-content pentru a aseza elementele diferit pe axa data de flex-direction
+folosim align-items pentru a aseza elementele diferit pe cealalta axa data de flex-direction
+*/
