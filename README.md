@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/Figma-24CB71?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
-<br>
 
 ## Key Features
 
@@ -24,8 +23,6 @@
 - User-focused, intuitive design
 - Optimized the landing page for various screen sizes
 - JavaScript integration is planned for future updates to improve interactivity and user experience
-
-<br>
 
 ## Getting Started
 
